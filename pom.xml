@@ -17,8 +17,8 @@
         <module>eladmin-generator</module>
     </modules>
 
-    <name>EL-ADMIN 后台管理</name>
-    <url>http://auauz.net</url>
+    <name>柚子云 后台管理</name>
+    <url>http://uzykj.com/system</url>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
